@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yakalaanirudh
+- 👋 Hi, I’m @anirudhyakala
 - 👀 I’m interested in Full Stack web development.
 - 🌱 I’m currently learning Node js.
 - 💞️ I’m looking to collaborate on web development.
