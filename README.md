@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @anirudhyakala
 - 👀 I’m interested in Full Stack web development.
-- 🌱 I’m currently learning Node js.
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me anirudhyakala@gmail.com
 
-My skills include Python,Java,JavaScript,HTML,CSS,MongoDB,React JS.
+My skills include Python,Java,JavaScript,HTML,CSS,MongoDB,React JS,nodeJS,Express JS and SQL.
 
 <!---
 yakalaanirudh/yakalaanirudh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
