@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anirudhyakala
 - 👀 I’m interested in Full Stack web development.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently learning Spring.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me anirudhyakala@gmail.com
 
