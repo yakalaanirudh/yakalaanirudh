@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anirudhyakala
 - 👀 I’m interested in Full Stack web development.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Angular JS.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me anirudhyakala@gmail.com
 
