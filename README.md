@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @anirudhyakala
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Angular JS.
+- 🌱 I’m currently learning PHP to improve my backend skills.
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me anirudhyakala@gmail.com
 
-My skills include Python,Java,JavaScript,HTML,CSS,SQL,C,C++ and R. I am proficient in Technologies and frameworks like MongoDB,React,Angular,Express,Node,Redux and Tableau.
+My skills:
+
+Programming languages-JavaScript, Python, Java, SQL, HTML, CSS, R, C, C++, MATLAB.
+
+Libraries and Frameworks-React, Redux, Angular, Node, Express, Bootstrap, ggplot2.
+
+Other Skills-Git, GraphQL, MongoDB, Tableau, Microsoft Power BI.
 
 <!---
 yakalaanirudh/yakalaanirudh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
