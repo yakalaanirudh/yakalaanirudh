@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anirudhyakala
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Ruby,Ruby on Rails to improve my backend skills.
+- 🌱 I’m currently learning Django to improve my backend skills.
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me anirudhyakala@gmail.com
 
