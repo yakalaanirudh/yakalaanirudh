@@ -6,9 +6,9 @@
 
 My skills:
 
-Programming languages-JavaScript, Python, Java, SQL, HTML, CSS, R, C, C++, Ruby MATLAB.
+Programming languages-JavaScript, Python, Java, SQL, HTML, CSS, R, C, C++, MATLAB.
 
-Libraries and Frameworks-React, Redux, Angular, Node, Express, Ruby on Rails, Bootstrap, ggplot2.
+Libraries and Frameworks-React, Redux, Angular, Node, Express, Django, Spring, Bootstrap, ggplot2.
 
 Other Skills-Git, GraphQL, MongoDB, Tableau, Microsoft Power BI.
 
